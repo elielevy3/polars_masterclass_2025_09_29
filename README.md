@@ -55,3 +55,6 @@ Click on the link to your localhost
 
 <img width="1201" height="483" alt="image" src="https://github.com/user-attachments/assets/3e7766b2-8adb-499f-8a31-2ad3f24c1904" />
 
+### 7. Decompress and add CSV and Parquet folders to the root folder of this repo
+
+
