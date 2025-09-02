@@ -1,0 +1,5 @@
+polars
+pandas
+jupyter
+pyarrow
+graphviz
