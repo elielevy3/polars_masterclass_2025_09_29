@@ -36,12 +36,12 @@ git clone git@github.com:elielevy3/polars_masterclass_2025_09_29.git
 dockerd
 ```
 
-### 3. Build image
+### 3. Build image (at the Dockerfile level)
 ```bash
 docker build -t polars-app .
 ```
 
-### 4. Run container
+### 4. Run container (where your data files will be located)
 ```bash
 docker run -it --rm -p 8888:8888 -v $(pwd):/app polars-app
 ```
