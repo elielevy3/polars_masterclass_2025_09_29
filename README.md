@@ -8,9 +8,8 @@ This environment is fully containerized with **Docker** for a smooth and reprodu
 ## 📦 Features
 
 - Pre-configured **Docker** environment  
-- Latest **Polars** (Python) installed  
 - **Jupyter Notebook/Lab** for interactive exploration  
-- Ready-to-use datasets & examples  
+- **Ready-to-use** datasets & examples  
 - No local dependency issues 🚀  
 
 ---
@@ -54,7 +53,4 @@ Click on the link to your localhost
 ### 6. Run the first few cells to make sure everything works fine 
 
 <img width="1201" height="483" alt="image" src="https://github.com/user-attachments/assets/3e7766b2-8adb-499f-8a31-2ad3f24c1904" />
-
-### 7. Decompress and add CSV and Parquet folders to the root folder of this repo
-
 
